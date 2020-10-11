@@ -22,6 +22,9 @@ It is really easy! Just drag and drop file into the app and voila!
 
 ![screenshot2](assets/2.gif)
 
+in addition it is possible to send a file through a command line as follows
+VirusTotalUploader2.2.exe "E:\<path to file>\<fileName>"
+
 #### Contributing
 If you have any idea how to make this app better, please create pull request. If you find any bug, please create issue.
 
